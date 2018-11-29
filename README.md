@@ -2,6 +2,10 @@
 Es un proyecto realizado en Arduino UNO R3, para la materia Teoria de Control. El objetivo es controlar y automatizar un sistema de riego por Ethernet.
 
 
+# Captura de Pantalla de la interfaz Web:
+![INTERFAZ_WEB](web.png)
+
+
 
 > Algunos links de interes (Simuladores/Ejemplos):
 
